@@ -1,0 +1,7 @@
+Name: Sai Kiran Manthri
+Email ID: saikiranmanthri5@gmail.com
+
+i got my vm 1day before final project, during my entire course vm didn't work for me.The various software were not working properly(maybe due to internet issue) and i also had my final semester exams in clg so i didn't had much time.
+so i did the final project in my pc only please consider it.
+
+due to upload size issue i removed npm_modules from final project front please re-install npm to run the application.

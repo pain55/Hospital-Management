@@ -1,0 +1,11 @@
+.bg{
+    background-image: url(../../assets/img/gallery/gallery-7.jpg);
+    background-position: center;
+    background-size: auto;
+    height: 600px;
+}
+.container{
+    height: auto;
+    opacity: 0.8;
+    background-color: #08f0c9;
+}
