@@ -1,2 +1,2 @@
 # Hospital-Management
-This project was during my internship
+This project was during my internship in Mindtree.
